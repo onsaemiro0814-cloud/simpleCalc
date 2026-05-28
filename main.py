@@ -58,6 +58,7 @@ while True:
 
     else:
         print("Invalid Input")
+        print("Stay Happy")
 
 
 
